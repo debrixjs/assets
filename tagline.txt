@@ -1,1 +1,0 @@
-Efficient progressive component-based Javascript library
